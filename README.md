@@ -82,6 +82,10 @@ Default values 'Sony', 'STR-DN1080' and 'Serial number 1' for respectively manuf
                 {
                     "name": "Surround Mode",
                     "value": "dolbySurround"
+                },
+                {
+                    "name": "multihStereo",
+                    "value": "multiChStereo"
                 }
             ],
             "accessoryInformation": {
